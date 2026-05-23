@@ -32,3 +32,11 @@ To overcome the safety challenges identified in this analysis, the following tar
 * **Corridor-Specific Audits:** Safety officials must urgently conduct physical infrastructure audits on **Airport Road**, **Ahmadu Bello Road**, and **Dugbe Road** to identify structural bottlenecks and install visible traffic-calming measures.
 * **Weather-Responsive Management:** With rainy and foggy weather ranking as top environmental hazards, authorities should implement variable message signs (VMS) on major highways to warn drivers and lower legal speed limits dynamically during storms.
 * **Proactive Seasonal Campaigns:** Public safety awareness campaigns and emergency response deployments should be scaled up aggressively immediately prior to the historical annual accident peaks in **August and October**.
+
+
+  <img width="1404" height="749" alt="image (1)" src="https://github.com/user-attachments/assets/b7e51aa9-abd6-4a66-96af-690741477d4d" />
+  <img width="1587" height="744" alt="image (2)" src="https://github.com/user-attachments/assets/7720d8a1-0d4a-4066-9738-43c8da226901" />
+  <img width="1427" height="729" alt="image (3)" src="https://github.com/user-attachments/assets/c2b4053e-ff4f-4749-b4f1-3f1f5444fbc8" />
+
+
+
