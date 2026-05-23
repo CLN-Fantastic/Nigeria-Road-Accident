@@ -24,6 +24,12 @@ To identify high-risk geographic corridors, primary behavioral and environmental
 * **Severity Distribution:** Minor accidents represent the highest category at **46.35%** ($464$ cases), closely followed by Fatal accidents at **45.25%** ($453$ cases), while Serious accidents account for **8.39%** ($84$ cases).
 * **Temporal & Transit Risk:** Traffic incidents peak heavily during the **afternoon** hours, with **Buses** and **Tricycles** leading as the primary vehicle types involved.
 
+  <img width="1404" height="749" alt="image (1)" src="https://github.com/user-attachments/assets/b7e51aa9-abd6-4a66-96af-690741477d4d" />
+  <img width="1587" height="744" alt="image (2)" src="https://github.com/user-attachments/assets/7720d8a1-0d4a-4066-9738-43c8da226901" />
+  <img width="1427" height="729" alt="image (3)" src="https://github.com/user-attachments/assets/c2b4053e-ff4f-4749-b4f1-3f1f5444fbc8" />
+
+  
+
 ## Conclusion: Strategic Action Plan
 To overcome the safety challenges identified in this analysis, the following targeted data-driven interventions are recommended:
 
@@ -34,9 +40,6 @@ To overcome the safety challenges identified in this analysis, the following tar
 * **Proactive Seasonal Campaigns:** Public safety awareness campaigns and emergency response deployments should be scaled up aggressively immediately prior to the historical annual accident peaks in **August and October**.
 
 
-  <img width="1404" height="749" alt="image (1)" src="https://github.com/user-attachments/assets/b7e51aa9-abd6-4a66-96af-690741477d4d" />
-  <img width="1587" height="744" alt="image (2)" src="https://github.com/user-attachments/assets/7720d8a1-0d4a-4066-9738-43c8da226901" />
-  <img width="1427" height="729" alt="image (3)" src="https://github.com/user-attachments/assets/c2b4053e-ff4f-4749-b4f1-3f1f5444fbc8" />
 
 
 
